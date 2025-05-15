@@ -1,0 +1,1 @@
+// SignalRegistry tests

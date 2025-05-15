@@ -1,0 +1,21 @@
+Contract Address:[0x31e3f62850202cc13c1d49aa4bb22dc315912144]
+Label: Asig Signal Core 
+Name Tag: Asig Signal Registry
+
+Contract Name: ASIG-SignalRegistry
+Label: Aegis Signal Core
+Network: Base Sepolia
+Contract Address: 0x31E3F62850202Cc13c1d49aA4Bb22dC315912144[]
+Deployed By: [0x30Cbd5ffb18B38cC77Cca71B609259547cB3be5B]
+Block Number: [#30259453]
+Transaction Hash: [0x9cec019113c2f6b37340d411f72db76f0f29d811e90493afaa545962968bd66c]
+Verified: ✅
+Compiler Version: 0.8.26
+License: MIT
+Date: [5/15/2025]
+
+Notes:
+- This is the primary signal intake point for the Aegis Signal Protocol.
+- Emits structured signal events for off-chain bots to process.
+- Connected to ASIG token logic and user wallet authentication.
+  
